@@ -36,6 +36,10 @@ span > .P2{
     color: #c4c4c3;
     font-size: small;
 }
+.material-symbols-outlined{
+    width: 40px;
+}
+
 .wrapper{
     display: flex;
     height: auto;
